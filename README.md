@@ -39,8 +39,8 @@ riscv-instruction-explorer/
 ### 1. Clone this repository
 
 ```bash
-git clone <your-repo-url>
-cd riscv-instruction-explorer
+git clone https://github.com/sRiSh-JaNa-tech/Riscv-Instruction-Explorer.git
+cd Riscv-Instruction-Explorer
 ```
 
 ### 2. Install dependencies

@@ -1,0 +1,6 @@
+requests
+gitpython
+networkx
+matplotlib
+pytest
+rich
